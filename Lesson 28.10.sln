@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory 9", "Laboratory 9\Laboratory 9.csproj", "{67596DA8-C9A9-46DF-A91D-39E1ED42A4B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{2B82CD2B-C3A6-4FA8-B734-25B55615408A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\transactions.txt = ..\..\..\Documents\transactions.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1", "Zadanie 1\Zadanie 1.csproj", "{3B473658-62DD-4C1F-883D-A3C9979937DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67596DA8-C9A9-46DF-A91D-39E1ED42A4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67596DA8-C9A9-46DF-A91D-39E1ED42A4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67596DA8-C9A9-46DF-A91D-39E1ED42A4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67596DA8-C9A9-46DF-A91D-39E1ED42A4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B473658-62DD-4C1F-883D-A3C9979937DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B473658-62DD-4C1F-883D-A3C9979937DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B473658-62DD-4C1F-883D-A3C9979937DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B473658-62DD-4C1F-883D-A3C9979937DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA85C89-0852-493D-9D85-EE3519F29AEC}
+	EndGlobalSection
+EndGlobal
